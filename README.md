@@ -1,14 +1,8 @@
-# prog\_estat\_aula
+# \# Programação Estatistica
 
-Aula de github em prog estat
-
-
-
-quakquer coisa
-
-mais uma
+Em programação estatística aprendemos sobre como utilizar a linguagem de programação "python" em métodos estatísticos. Como por exemplo a partir de uma uniforme derivarmos, a binomial, bernoulli, Poisson, geométrica, etc. 
 
 
 
-ele fez denovo
+As aulas são lecionados pelo Professor Thiago Rodrigo Ramos
 
